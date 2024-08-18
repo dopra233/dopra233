@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Anderson Prado
 
-I'm a full-stack developer currently complementing my academic training as a Systems Engineering student. I specialize in the development and improvement of robust applications, providing advanced knowledge in a wide variety of programming languages and technologies. I currently work at a company called Cooweb SAS, and I also take on freelance projects. My philosophy is to approach everything I do with the utmost dedication and love ❤️
+I'm a full-stack developer currently complementing my academic training as a Systems Engineering student. I specialize in the development and improvement of robust applications, providing advanced knowledge in a wide variety of programming languages and technologies. I currently work at a company called Cooweb SAS, and I also take on freelance projects. My philosophy is to approach everything I do with the utmost dedication and love. ❤️
 
 #
 ### 🧰 Languages and Tools
