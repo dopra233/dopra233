@@ -18,6 +18,6 @@ I'm a full-stack developer currently complementing my academic training as a Sys
 <br />
 
 #
-### 📊 Stats
+### 📊 Public stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=dopra233&show_icons=true&theme=dark)
